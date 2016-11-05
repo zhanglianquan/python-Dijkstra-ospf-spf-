@@ -3,4 +3,6 @@
 http://golehuang.blog.51cto.com/7499/920865
 
 图表显示：
-https://github.com/zhanglianquan/python-Dijkstra-ospf-spf-/res/figure_1.png
+
+![image](https://github.com/zhanglianquan/python-Dijkstra-ospf-spf-/res/figure_1.png)
+
